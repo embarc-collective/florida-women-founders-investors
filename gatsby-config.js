@@ -4,7 +4,7 @@ module.exports = {
   pathPrefix: "/florida-women-founders-investors",
   siteMetadata: {
     title: `Florida Women Founders & Investors`,
-    description: `A directory of Venture Capital Firms in the Southeast`,
+    description: `A directory of Women Founders & Investors in Florida`,
     author: ``,
     primary_background_color: 'white',
     overscroll_background_color: '#89e1cf',

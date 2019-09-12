@@ -1,6 +1,6 @@
-# Southeast Capital Landscape
+#  florida-women-founders-investors
 
-This is a directory of startup funders in the southeastern United States
+This is a directory of women founders and investors in Florida
 
 It was made possible through the efforts of
 - A
